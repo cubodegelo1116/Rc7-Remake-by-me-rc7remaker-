@@ -12,9 +12,9 @@ download one of the versions of Rc7 (with or without menu strip) and extract the
 
 When extracting, open Rc7.exe and enter your username and password, if you don't have it, enter
 
-user: Rc7
+### user: Rc7
 
-password: Remake
+### password: Remake
 
 ## How to inject (in both versions)
 
