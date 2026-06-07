@@ -32,7 +32,7 @@ Right click on the textbox and click "Choose theme"
 
 When the themes window appears, 2 click on the chosen theme and it will be selected
 
-##Extra
+## Extra
 
 ### How to create an account
 
