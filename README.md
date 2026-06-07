@@ -2,6 +2,10 @@
 
 a remake of Rc7 made by me
 
+# Discord Server
+
+https://discord.gg/h7QuVwmvTe
+
 ## How to download
 
 First, disable the antivirus (to install without errors)
