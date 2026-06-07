@@ -2,7 +2,7 @@
 
 a remake of Rc7 made by me
 
-## Tutorial
+## How to download
 
 First, disable the antivirus (to install without errors)
 
