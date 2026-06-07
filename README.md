@@ -16,7 +16,7 @@ password: Remake
 
 ## How to inject (in both versions)
 
-### version with strip menu
+### version with menustrip
 
 Click on Settings then inject
 
@@ -29,3 +29,9 @@ Just log in with Roblox open (it has auto inject)
 Right click on the textbox and click "Choose theme"
 
 When the themes window appears, 2 click on the chosen theme and it will be selected
+
+##Extra
+
+### How to create an account
+
+Call me on discord and tell me the username and password you want for your account and wait for me to create it
