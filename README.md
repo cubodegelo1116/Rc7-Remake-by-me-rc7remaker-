@@ -8,7 +8,7 @@ First, disable the antivirus (to install without errors)
 
 download one of the versions of Rc7 (with or without menu strip) and extract the .rar file
 
-## (if you don't have winrar, install it here : https://www.win-rar.com/postdownload.html?&L=9)
+### (if you don't have winrar, install it here : https://www.win-rar.com/postdownload.html?&L=9)
 
 When extracting, open Rc7.exe and enter your username and password, if you don't have it, enter
 
